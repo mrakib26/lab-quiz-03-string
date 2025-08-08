@@ -3,7 +3,7 @@
 #include <string.h>
 int main() 
 {
-    char str[100]; 
+    cchar str[100]; 
 
     printf("Enter a string: "); 
     
@@ -16,6 +16,6 @@ int main()
     // printf("You entered: %s\n", str);
     printf("You entered: ");
     puts(str); 
-
+    
     return 0; 
 }
