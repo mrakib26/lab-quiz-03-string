@@ -1,4 +1,5 @@
 //how to display string character wise
+
 #include <stdio.h>
 #include <string.h>
 int main()
